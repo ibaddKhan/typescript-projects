@@ -3,6 +3,7 @@ let course = " 200_0000";
 let updated = false;
 let unknowntype;
 
-function render(doc) {
-  console.log(doc);
-}
+let arr: string[] = ["1", "2", "3"];
+arr.forEach((s) => s.codePointAt);
+
+let user: [number, string] = [2, "asd"];
