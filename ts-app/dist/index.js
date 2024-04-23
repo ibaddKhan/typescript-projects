@@ -1,2 +1,4 @@
 "use strict";
-let namesss = "ibad khan";
+let sales = 2000000;
+let course = " 200_0000";
+let updated = false;
